@@ -1,0 +1,20 @@
+{
+  "name": "zwiggy",
+  "version": "1.0.0",
+  "description": "Zwiggy food delivery App",
+  "main": "zwiggy.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavanKumar696/Zwiggy.git"
+  },
+  "keywords": [],
+  "author": "PAVAN KUMAR GOAT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavanKumar696/Zwiggy/issues"
+  },
+  "homepage": "https://github.com/PavanKumar696/Zwiggy#readme"
+}
